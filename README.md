@@ -19,8 +19,4 @@ This project implements two clustering algorithms, K-Means and DBSCAN, from scra
   - ε: The maximum distance between two samples for them to be considered part of the same neighborhood.
   - minPts: The minimum number of points required to form a dense region (cluster).
 
-## Example
-- *Input*: 
-  ![Non-segmented Image](path_to_image)
-- *Output* (K-Means with k=3):
-  ![Segmented Image](path_to_segmented_image)
+
